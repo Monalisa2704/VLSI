@@ -1,4 +1,4 @@
-# VLSI# CMOS Inverter Project
+# CMOS Inverter Project
 
 ## Project Demo
 
